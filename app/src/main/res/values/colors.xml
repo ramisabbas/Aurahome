@@ -1,0 +1,8 @@
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="indigo">#7C58FB</color> <!-- Add this line for indigo color -->
+    <!-- Other color definitions -->
+    <color name="accept_button_color">#4CAF50</color>
+    <color name="reject_button_color">#F44336</color>
+</resources>

@@ -1,0 +1,16 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:columnCount="2"
+    android:rowCount="3"
+    android:padding="8dp"
+    android:alignmentMode="alignMargins">
+
+    <!-- 6 cards -->
+    <include layout="@layout/item_light_card"/>
+    <include layout="@layout/item_light_card"/>
+    <include layout="@layout/item_light_card"/>
+    <include layout="@layout/item_light_card"/>
+    <include layout="@layout/item_light_card"/>
+    <include layout="@layout/item_light_card"/>
+</GridLayout>

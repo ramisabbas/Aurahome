@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317516485625",
+    "project_id": "shautomation-c2a4a",
+    "storage_bucket": "shautomation-c2a4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317516485625:android:f1e3e5d92efd860d7fe328",
+        "android_client_info": {
+          "package_name": "com.example.homeautomationsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDCVYjuTQjXVcgsBvLlDpfDHJeN51ylwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
